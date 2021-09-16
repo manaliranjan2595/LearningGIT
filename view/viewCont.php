@@ -16,6 +16,7 @@ require('viewContInner.php');
                 <thead>
                     <tr>
                         <th>Sl. No.</th>
+						<th>Title</th>
                         <th>Name</th>
                         <th>Phone</th>
                         <th>Email</th>
